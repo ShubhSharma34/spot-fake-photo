@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 # ─────────────────────────────────────────────
 # CHANGE THIS to your actual folder path
 BASE_DIR   = r"C:\Users\Shubh Sharma\Desktop\spot_fake"
-MODEL_PATH = os.path.join(BASE_DIR, "model.pkl")
+MODEL_PATH = "model.pkl"
 # ─────────────────────────────────────────────
 
 # ── Page config ──────────────────────────────
