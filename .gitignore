@@ -1,9 +1,7 @@
 # Virtual environment
 .venv/
 
-# Dataset folders
-real/
-screen/
+
 
 # Python cache
 __pycache__/
